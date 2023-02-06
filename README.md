@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahul8384!
+- 👋 Hi, I’m Rahul!
 - 👀 I’m interested in java and backend.
 - 🌱 I’m currently learning pursing my masters in computer applications.
 - 💞️ I’m looking to collaborate on some backend or java projects.
